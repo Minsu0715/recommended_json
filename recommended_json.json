@@ -1,0 +1,31 @@
+{
+    "total_size":2,
+    "type_id":3,
+    "offset":0,
+    "products":[
+        {
+            "id":1,
+            "name": "bibimbap",
+            "description": "Given South Korea's dedicated drinking culture, it's not surprising that its hangover-curing culture is equally as developed, from pre-drinking drinks to post-drinking drinks to a glorious array of spicy and steamy stews and soups.Made from a beef broth, with cabbage, bean sprouts, radish and chunks of congealed ox blood, the deeply satisfying taste does wonders to kick-start your sluggish brain in the morning.",
+            "price":15,
+            "stars":4,
+            "img":"https://user-images.githubusercontent.com/105715898/183244370-91812601-a063-4cb2-ae8d-a137c4195a1d.jpg",
+            "location":"Korean, Seoul, Busan",
+            "created_at":"2022-08-05",
+            "updated_at":"2022-08-06",
+            "type_id":3
+        },
+        {
+            "id":2,
+            "name": "bibimbap2",
+            "description": "2Given South Korea's dedicated drinking culture, it's not surprising that its hangover-curing culture is equally as developed, from pre-drinking drinks to post-drinking drinks to a glorious array of spicy and steamy stews and soups.Made from a beef broth, with cabbage, bean sprouts, radish and chunks of congealed ox blood, the deeply satisfying taste does wonders to kick-start your sluggish brain in the morning.",
+            "price":16,
+            "stars":4,
+            "img":"https://user-images.githubusercontent.com/105715898/183271965-dbe782c0-2a90-4a82-9a63-09a35e147c7d.jpg",
+            "location":"Korean, Cheonan, Busan",
+            "created_at":"2022-08-06",
+            "updated_at":"2022-08-07",
+            "type_id":3
+        }
+    ]
+}
